@@ -36,5 +36,5 @@ python -c "import nltk; nltk.download('vader_lexicon')"
 # install jupyter notebook
 conda install -c conda-forge jupyterlab
 
-python3 -m spacy download en_core_web_sm
+python -m spacy download en_core_web_sm
 
