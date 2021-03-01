@@ -13,6 +13,16 @@ pip install lxml==4.6.2
 pip install transformers[torch]
 pip install unidecode==1.2.0
 pip install seaborn==0.11.1
+pip install sklearn==0.24.1
+pip install wordcloud==1.8.1
+pip install fightin-words==1.0.5
+pip install eli5==0.11.0
+pip install flair==0.7.0
+pip install tensorflow==2.4.1
+pip install keras==2.4.3
+pip install transformers
+pip install sentencepiece==0.1.91
+pip install transformers==3.5.1
 
 # spacy
 python -m spacy download en_core_web_sm
