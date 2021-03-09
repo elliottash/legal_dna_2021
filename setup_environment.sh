@@ -23,6 +23,9 @@ pip install keras==2.4.3
 pip install transformers
 pip install sentencepiece==0.1.91
 pip install transformers==3.5.1
+pip install scikit-learn-extra==0.1.0b2
+pip install pyldavis==3.2.2
+pip install hdbscan==0.8.27
 
 # spacy
 python -m spacy download en_core_web_sm
