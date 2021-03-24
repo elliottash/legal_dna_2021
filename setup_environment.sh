@@ -26,6 +26,7 @@ pip install transformers==3.5.1
 pip install scikit-learn-extra==0.1.0b2
 pip install pyldavis==3.2.2
 pip install hdbscan==0.8.27
+pip install pydot
 
 # spacy
 python -m spacy download en_core_web_sm
@@ -40,4 +41,7 @@ python -c "import nltk; nltk.download('vader_lexicon')"
 conda install -c conda-forge jupyterlab
 
 python -m spacy download en_core_web_sm
+
+
+sudo apt install graphviz
 
